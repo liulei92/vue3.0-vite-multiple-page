@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vueuse/core": "^9.13.0",
     "element-plus": "^2.2.28",
     "pinia": "^2.0.28",
     "vite-plugin-compression": "^0.5.1",
